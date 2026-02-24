@@ -1,6 +1,6 @@
 ---
 date: "2026-01-01"
-draft: true
+draft: false
 title: "2026 Rear Wing Swan Neck Analysis"
 summary: "Analysis of a Swan Neck of an FSAE Rear Wing Using FEA and Analytical Methods"
 ---

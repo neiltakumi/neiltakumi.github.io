@@ -1,4 +1,15 @@
-baseURL: ""
+baseURL: "https://neiltakumi.github.io"
 languageCode: "en-us"
 title: Neil Portfolio
-theme: "ananke"
+theme: "blowfish"
+menu:
+  main:
+    - name: "Home"
+      pageRef: "/"
+      weight: 1
+    - name: "Projects"
+      pageRef: "/projects"
+      weight: 2
+    - name: "About"
+      pageRef: "/about"
+      weight: 3
